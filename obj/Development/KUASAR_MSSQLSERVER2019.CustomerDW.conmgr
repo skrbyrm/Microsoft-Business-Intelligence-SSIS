@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="KUASAR_MSSQLSERVER2019.CustomerDW"
   DTS:DTSID="{CB6F345A-A706-4139-A003-3075A12B0DC8}"
@@ -8,7 +8,7 @@
       DTS:ConnectionString="Data Source=KUASAR\MSSQLSERVER2019;User ID=sa;Initial Catalog=CustomerDW;Application Name=&quot;SSIS-Microsoft Business Intelligence-{CB6F345A-A706-4139-A003-3075A12B0DC8}KUASAR\MSSQLSERVER2019.CustomerDW&quot;;">
       <DTS:Password
         DTS:Name="Password"
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA27TtMP2xUkC5jiubBQH4lgAAAAACAAAAAAAQZgAAAAEAACAAAAAsSjk+mT0zSRICf4+UNekn6gfHy2r4JRnCg8p4NKLeHwAAAAAOgAAAAAIAACAAAABDAbFqRRSl1Cmv5tfr+hiiBCYrlMmXJUUzTOBlh+Tkr4AAAAD1K5Tp4KY6p4UK2iaafjcY0gNicQsbrLcoxP6iZKG+zNjRQGbxGQnQgGHxOhmheFnYixjsZuvI51mCgWI2fLTS7CTL1jlpuUVZNgh0F/jqdPCbHGjhJp3vWp7oVYK0pPq/5939avWXSa5Q5Jk6UWx1TMqSpUbOEeigd+h1p+txhEAAAADV8jq6YK7ueT93VVipwx2vM2rPy5Z+g052FoxaKiJDAI63QUsTLCp4H4ecKBj43Q6Qf6MPwYssYWTLZu5Nl0TF</DTS:Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA27TtMP2xUkC5jiubBQH4lgAAAAACAAAAAAAQZgAAAAEAACAAAAA7ultE9hjQIcxeeiF6afZaax6Fd42ytIPPMDWPeXvCjgAAAAAOgAAAAAIAACAAAAD1b+QsUYfOdvmNYuCaBhVG9qgq8Kx/LIj0wAw3PbNUM4AAAACTigP3nkSo4FwHHpBJn1byOEhdmadsK3VfdsZYElRyae6BCoyuzAWzzsPHsS+jyIRrhGbqtTueSsi9Gt2y2xY0ETxyfMTBYSIn/v3c6pgiQsZcrU2hQiBUJKWiaV2OYct2OWPGFxNwGHkWMoZSxd6m7i5l911wLccZ7M0QusOt3UAAAAAlYLYih2EebPvkxzPepCjIKI8IjiWAOkemGYcdjhanoddza66nSRFrJN+l/vvwc7YUB+DfjMdzNXiZQutHb93h</DTS:Password>
     </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
