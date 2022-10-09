@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="KUASAR_MSSQLSERVER2022.CustomerDW"
+  DTS:DTSID="{6A189F6B-EB48-41E9-8891-B69F648FEAB8}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=KUASAR\MSSQLSERVER2022;Initial Catalog=CustomerDW;Integrated Security=True;Application Name=SSIS-Microsoft Business Intelligence-{6A189F6B-EB48-41E9-8891-B69F648FEAB8}KUASAR\MSSQLSERVER2022.CustomerDW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
