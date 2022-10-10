@@ -7,7 +7,7 @@ This project is an example application for **extract**,**transform** and **load*
 * Capitalization
 * Change data type, data conversion
 * Conditional split
-* variable, parameter usage
+* Variable and Parameter usage
 * Foreach Loop Container
 * Implementing the data to SQL Server
 
